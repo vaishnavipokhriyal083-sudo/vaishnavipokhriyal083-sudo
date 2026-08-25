@@ -15,11 +15,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **ML,**
+- 🌱 I’m currently learning **AI/ML, DL, Data Science**
 
 - 💬 Ask me about **react, MERN**
 
-- 📫 How to reach me **vaishnavipokhriyal083@gmail.com**
+- 📫 How to reach me : **vaishnavipokhriyal083@gmail.com**
 
 - ⚡ Fun fact **Love to code**
 
