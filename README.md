@@ -1,3 +1,5 @@
+![logo](https://github.com/vaishnavipokhriyal083-sudo/vaishnavipokhriyal083-sudo/blob/main/images%20(4).jpg)
+
 <h1 align="center"> Hi 👋, I'm Vaishnavi Pokhriyal</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
