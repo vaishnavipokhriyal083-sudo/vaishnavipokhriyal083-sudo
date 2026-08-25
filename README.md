@@ -2,12 +2,33 @@
 
 <h1 align="center"> Hi 👋, I'm Vaishnavi Pokhriyal</h1>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="center">
+  <img src="https://github.com/vaishnavipokhriyal083-sudo.png" width="160" height="160" style="border-radius: 50%;" alt="Vaishnavi Pokhriyal"/>
+</p>
+
+<h1 align="center">Vaishnavi Pokhriyal</h1>
+
+<h3 align="center">💻 Computer Science Student | 🤖 AI/ML Enthusiast | 🚀 Developer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Building+Innovative+Projects;Always+Learning+Something+New!" alt="Typing Animation"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vaishnavipokhriyal083-sudo">
+    <img src="https://komarev.com/ghpvc/?username=vaishnavipokhriyal083-sudo&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/vaishnavipokhriyal083-sudo?tab=followers">
+    <img src="https://img.shields.io/github/followers/vaishnavipokhriyal083-sudo?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers"/>
+  </a>
+</p>
+
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://github.com/vaishnavipokhriyal083-sudo/vaishnavipokhriyal083-sudo/blob/main/images%20(3).png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavipokhriyal083-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavipokhriyal083-sudo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavipokhriyal083-sudo" alt="vaishnavipokhriyal083-sudo" /></a> </p>
 
